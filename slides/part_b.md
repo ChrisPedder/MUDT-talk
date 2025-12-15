@@ -42,16 +42,16 @@ After 3 months, you collect evidence E:
  - But 40% of users ask about capybara instead
  - Competitors are gaining traction in your space
 
- - $P(E | H₁) = 0.15$ possible , but unlikely
- - $P(E | H₂) = 0.70$ evidence suggests the alternate direction
+ - $P(E | H_A) = 0.15$ possible , but unlikely
+ - $P(E | H_B) = 0.70$ evidence suggests the alternate direction
 
 ---
 
 ### What should you do?
  - $P(H_i | E) = [P(E | H_i) × P(H_i)] / P(E)$
- - $P(E) \approx  P(E | H₁) × P(H₁) + P(E | H₂) × P(H₂)$
- - P(H_1 | E) = (0.15 × 0.30) / 0.185 = 0.045 / 0.185 ≈ 0.24
- - P(H_2 | E) = (0.70 × 0.20) / 0.185 = 0.14 / 0.185 ≈ 0.76
+ - $P(E) \approx  P(E | H_A) × P(H_A) + P(E | H_B) × P(H_B)$
+ - P(H_A | E) = (0.15 × 0.30) / 0.185 = 0.045 / 0.185 ≈ 0.24
+ - P(H_B | E) = (0.70 × 0.20) / 0.185 = 0.14 / 0.185 ≈ 0.76
 
  <span class="key-term">The new evidence caused a massive Bayesian update.</span>
 
@@ -61,8 +61,8 @@ After 3 months, you collect evidence E:
 
 - Evidence compounds quickly: Each week of data updates your beliefs.
 - Asymmetric likelihood ratios: When evidence fits a pivot hypothesis, the likelihood ratio dramatically shifts probabilities.
-- Time is the enemy: Every month spent pursuing H₁ when P(H₁ | E) = 24% is a month not spent on H₂ when P(H₂ | E) = 76%.
-- Overconfidence kills: Founders often treat their prior P(H₁) as fixed truth rather than a belief to be updated.
+- Time is the enemy: Every month spent pursuing H₁ when $P(H_A | E) = 24%$ is a month not spent on H₂ when $P(H_B | E) = 76%$.
+- Overconfidence kills: Founders often treat their prior $P(H_A)$ as fixed truth rather than a belief to be updated.
 
 ---
 

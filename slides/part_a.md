@@ -149,7 +149,7 @@ Three cases to consider:
 
 ### Sherlock Holmes' Principle.
 
-<span class="key-term">"When you have eliminated the impossible, what remains must be the truth".</span>"
+<span class="key-term">"When you have eliminated the impossible, what remains must be the truth".</span>
 
 | Hypothesis | Prior P(H) | Likelihood P(D\|H) | Posterior P(H\|D) |
 |------------|------------|-------------------|-------------------|
