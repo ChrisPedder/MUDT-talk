@@ -50,8 +50,8 @@ After 3 months, you collect evidence E:
 ### What should you do?
  - $P(H_i | E) = [P(E | H_i) × P(H_i)] / P(E)$
  - $P(E) \approx  P(E | H_A) × P(H_A) + P(E | H_B) × P(H_B)$
- - P(H_A | E) = (0.15 × 0.30) / 0.185 = 0.045 / 0.185 ≈ 0.24
- - P(H_B | E) = (0.70 × 0.20) / 0.185 = 0.14 / 0.185 ≈ 0.76
+ - $P(H_A | E) = (0.15 × 0.30) / 0.185 = 0.045 / 0.185 ≈ 0.24$
+ - $P(H_B | E) = (0.70 × 0.20) / 0.185 = 0.14 / 0.185 ≈ 0.76$
 
  <span class="key-term">The new evidence caused a massive Bayesian update.</span>
 
