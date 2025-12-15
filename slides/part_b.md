@@ -61,7 +61,7 @@ After 3 months, you collect evidence E:
 
 - Evidence compounds quickly: Each week of data updates your beliefs.
 - Asymmetric likelihood ratios: When evidence fits a pivot hypothesis, the likelihood ratio dramatically shifts probabilities.
-- Time is the enemy: Every month spent pursuing H₁ when $P(H_A | E) = 24%$ is a month not spent on H₂ when $P(H_B | E) = 76%$.
+- Time is the enemy: Every month spent pursuing H₁ when $P(H_A | E) = 0.24$ is a month not spent on H₂ when $P(H_B | E) = 0.76$.
 - Overconfidence kills: Founders often treat their prior $P(H_A)$ as fixed truth rather than a belief to be updated.
 
 ---
