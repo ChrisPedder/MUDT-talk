@@ -146,10 +146,10 @@ Sherlock Holmes's Principle, Formalized
 
 Blockbuster's (implicit) hypothesis space in 2000:
 
- - H₁: Customers want more store locations
- - H₂: Customers want lower late fees
- - H₃: Customers want better in-store selection
- - H₄: Customers want faster new release availability
+ - $H_1$: Customers want more store locations
+ - $H_2$: Customers want lower late fees
+ - $H_3$: Customers want better in-store selection
+ - $H_4$: Customers want faster new release availability
 
 They ran tests, collected data, updated beliefs, optimized... and died.
 
@@ -158,7 +158,7 @@ They ran tests, collected data, updated beliefs, optimized... and died.
 ### Example Blockbuster vs Netflix.
 
 What they missed was
- - $H_5$: Customers don't want to return tapes, they want streaming.
+ - $H_5$: Customers don't want to return tapes physically, they want post or streaming.
 
 This wasn't in their hypothesis space. No amount of Bayesian updating within their fixed set of hypotheses would save them.
 
